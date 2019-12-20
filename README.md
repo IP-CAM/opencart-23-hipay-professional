@@ -1,2 +1,3 @@
-# hipaypt-professional-opencart-23
-HiPay Professional extension for Opencart 2.3
+# HiPay Professional extension for Opencart 2.3
+
+see pdf for more details
